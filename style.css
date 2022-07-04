@@ -18,7 +18,7 @@ section{
 .box img {
     width: 80%;
 }
-.hire-btn{
+.btn{
     text-decoration: none;
     padding: 10px 30px;
     background-image: linear-gradient(orange, tomato);
@@ -27,10 +27,18 @@ section{
     font-weight: bold;
     
 }
-hire-btn:hover{
+.btn:hover{
     background-color: white;
 }
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+
+
 }
